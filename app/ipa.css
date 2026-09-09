@@ -1,0 +1,7 @@
+.ipa {
+  min-height: 20px;
+  margin: -6px 0 14px;
+  color: var(--orange);
+  font: 16px Georgia, serif;
+  letter-spacing: 0.02em;
+}

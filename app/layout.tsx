@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import './ipa.css';
 
 export const metadata: Metadata = {
   title: 'Wordwise — A Word for Today',
