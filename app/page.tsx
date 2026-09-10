@@ -6,6 +6,7 @@ import vocabulary from './vocabulary-data.json';
 type Status = 'known' | 'unsure' | 'learning';
 type RecordMap = Record<string, { status: Status; seen: number; due: number }>;
 type Voice = 'female' | 'male';
+type TutorMessage = { role: 'user' | 'assistant'; content: string };
 type Entry = (typeof vocabulary)[number] & {
   audioReady?: boolean;
   audioUSFemale?: string;
@@ -26,11 +27,56 @@ export default function Home() {
   const [view, setView] = useState<'session' | 'progress'>('session');
   const [session, setSession] = useState({ seen: 0, known: 0, unsure: 0, learning: 0 });
   const [voice, setVoice] = useState<Voice>('female');
+  const [tutorMessages, setTutorMessages] = useState<TutorMessage[]>([]);
+  const [tutorQuestion, setTutorQuestion] = useState('');
+  const [tutorPending, setTutorPending] = useState(false);
+  const [tutorError, setTutorError] = useState('');
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const currentEntryIdRef = useRef(current.id);
 
   useEffect(() => {
     audioRef.current?.pause();
+    currentEntryIdRef.current = current.id;
+    setTutorMessages([]);
+    setTutorQuestion('');
+    setTutorError('');
+    setTutorPending(false);
   }, [current.id]);
+
+  const tutorSuggestions = revealed
+    ? ['When would I use this?', 'Conversation or writing?', 'What is the register?', 'Similar words?', 'Give me a natural example.']
+    : ['Is it related to a word I know?', 'Can I guess from the parts?', 'Am I close?'];
+
+  async function askTutor(suggestedQuestion?: string, retry = false) {
+    const question = (suggestedQuestion ?? tutorQuestion).trim();
+    if (!question || tutorPending) return;
+
+    const entryId = current.id;
+    const history = (retry ? tutorMessages.slice(0, -1) : tutorMessages).slice(-10);
+    if (!retry) setTutorMessages((messages) => [...messages, { role: 'user', content: question }]);
+    setTutorQuestion('');
+    setTutorError('');
+    setTutorPending(true);
+
+    try {
+      const response = await fetch('/api/tutor', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ entryId, revealed, question, history }),
+      });
+      const payload = await response.json().catch(() => null) as { answer?: string; error?: string } | null;
+      if (!response.ok || !payload?.answer) throw new Error(payload?.error || 'Wordwise AI could not answer just now.');
+      if (currentEntryIdRef.current === entryId) {
+        setTutorMessages((messages) => [...messages, { role: 'assistant', content: payload.answer! }]);
+      }
+    } catch (error) {
+      if (currentEntryIdRef.current === entryId) {
+        setTutorError(error instanceof Error ? error.message : 'Wordwise AI could not answer just now.');
+      }
+    } finally {
+      if (currentEntryIdRef.current === entryId) setTutorPending(false);
+    }
+  }
 
   function playPronunciation() {
     const src = voice === 'female' ? current.audioUSFemale : current.audioUSMale;
@@ -143,6 +189,27 @@ export default function Home() {
                 </div>
               )}
             </article>
+            <section className="tutor" aria-labelledby="tutor-title">
+              <div className="tutor-heading">
+                <div><p className="eyebrow">ASK WORDWISE AI</p><h2 id="tutor-title">{revealed ? 'Learn more about this word' : 'Explore the word'}</h2></div>
+                <span>{current.word}</span>
+              </div>
+              {tutorMessages.length > 0 && (
+                <div className="tutor-conversation" aria-live="polite">
+                  {tutorMessages.map((message, index) => <div className={`tutor-message ${message.role}`} key={`${message.role}-${index}`}><b>{message.role === 'user' ? 'You' : 'Wordwise AI'}</b><p>{message.content}</p></div>)}
+                  {tutorPending && <div className="tutor-message assistant pending"><b>Wordwise AI</b><p>Thinking about {current.word}…</p></div>}
+                </div>
+              )}
+              <div className="tutor-suggestions">
+                {tutorSuggestions.map((suggestion) => <button type="button" key={suggestion} onClick={() => askTutor(suggestion)} disabled={tutorPending}>{suggestion}</button>)}
+              </div>
+              <div className="tutor-compose">
+                <textarea aria-label={`Ask Wordwise AI about ${current.word}`} value={tutorQuestion} onChange={(event) => setTutorQuestion(event.target.value)} onKeyDown={(event) => { if (event.key === 'Enter' && !event.shiftKey) { event.preventDefault(); askTutor(); } }} placeholder={revealed ? 'Ask about usage, register, nuance, or similar words…' : 'Share a guess or ask about the word’s parts…'} rows={2} maxLength={1000} disabled={tutorPending} />
+                <button type="button" onClick={() => askTutor()} disabled={tutorPending || !tutorQuestion.trim()}>{tutorPending ? 'Sending…' : 'Ask'}</button>
+              </div>
+              {tutorError && <div className="tutor-error" role="alert"><span>{tutorError}</span><button type="button" onClick={() => askTutor(tutorMessages.at(-1)?.role === 'user' ? tutorMessages.at(-1)?.content : undefined, true)} disabled={tutorPending}>Retry</button></div>}
+              <p className="tutor-note">AI guidance supplements the curated Wordwise entry.</p>
+            </section>
             <p className="privacy">Progress is saved privately on this device. Dictionary data adapted from Kaikki/Wiktionary (CC BY-SA).</p>
           </section>
         </section>
