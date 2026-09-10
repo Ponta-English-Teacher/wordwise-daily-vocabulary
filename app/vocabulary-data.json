@@ -11,7 +11,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0003-abeyance-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0003-abeyance-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0003-abeyance-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0004-abhor",
@@ -25,7 +28,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0004-abhor-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0004-abhor-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0004-abhor-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0006-abjure",
@@ -39,7 +45,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0006-abjure-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0006-abjure-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0006-abjure-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0007-abnegation",
@@ -53,7 +62,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0007-abnegation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0007-abnegation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0007-abnegation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0009-abstruse",
@@ -67,7 +79,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0009-abstruse-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0009-abstruse-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0009-abstruse-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0011-acerbic",
@@ -81,7 +96,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0011-acerbic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0011-acerbic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0011-acerbic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0012-acquiesce",
@@ -95,7 +113,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0012-acquiesce-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0012-acquiesce-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0012-acquiesce-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0013-acrimony",
@@ -109,7 +130,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0013-acrimony-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0013-acrimony-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0013-acrimony-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0016-adulation",
@@ -123,7 +147,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0016-adulation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0016-adulation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0016-adulation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0020-aggrandize",
@@ -137,7 +164,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0020-aggrandize-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0020-aggrandize-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0020-aggrandize-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0021-alacrity",
@@ -151,7 +181,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0021-alacrity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0021-alacrity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0021-alacrity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0024-alleviate",
@@ -165,7 +198,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0024-alleviate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0024-alleviate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0024-alleviate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0026-altruistic",
@@ -179,7 +215,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0026-altruistic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0026-altruistic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0026-altruistic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0028-ambivalent",
@@ -193,7 +232,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0028-ambivalent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0028-ambivalent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0028-ambivalent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0029-ameliorate",
@@ -207,7 +249,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0029-ameliorate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0029-ameliorate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0029-ameliorate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0030-amenable",
@@ -221,7 +266,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0030-amenable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0030-amenable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0030-amenable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0031-anachronism",
@@ -235,7 +283,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0031-anachronism-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0031-anachronism-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0031-anachronism-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0032-analogous",
@@ -249,7 +300,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0032-analogous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0032-analogous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0032-analogous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0033-anathema",
@@ -263,7 +317,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0033-anathema-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0033-anathema-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0033-anathema-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0035-animus",
@@ -277,7 +334,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0035-animus-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0035-animus-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0035-animus-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0037-anomalous",
@@ -291,7 +351,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0037-anomalous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0037-anomalous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0037-anomalous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0038-antipathy",
@@ -305,7 +368,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0038-antipathy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0038-antipathy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0038-antipathy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0039-apathy",
@@ -319,7 +385,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0039-apathy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0039-apathy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0039-apathy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0040-apocryphal",
@@ -333,7 +402,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0040-apocryphal-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0040-apocryphal-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0040-apocryphal-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0041-appease",
@@ -347,7 +419,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0041-appease-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0041-appease-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0041-appease-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0043-approbation",
@@ -361,7 +436,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0043-approbation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0043-approbation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0043-approbation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0045-arcane",
@@ -375,7 +453,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0045-arcane-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0045-arcane-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0045-arcane-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0046-ardent",
@@ -389,7 +470,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0046-ardent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0046-ardent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0046-ardent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0049-asperity",
@@ -403,7 +487,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0049-asperity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0049-asperity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0049-asperity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0050-assiduous",
@@ -417,7 +504,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0050-assiduous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0050-assiduous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0050-assiduous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0051-assuage",
@@ -431,7 +521,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0051-assuage-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0051-assuage-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0051-assuage-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0052-astute",
@@ -445,7 +538,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0052-astute-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0052-astute-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0052-astute-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0053-atavistic",
@@ -459,7 +555,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0053-atavistic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0053-atavistic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0053-atavistic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0055-audacious",
@@ -473,7 +572,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0055-audacious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0055-audacious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0055-audacious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0056-austere",
@@ -487,7 +589,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0056-austere-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0056-austere-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0056-austere-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0058-aversion",
@@ -501,7 +606,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0058-aversion-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0058-aversion-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0058-aversion-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0059-avuncular",
@@ -515,7 +623,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0059-avuncular-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0059-avuncular-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0059-avuncular-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0060-banal",
@@ -529,7 +640,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0060-banal-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0060-banal-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0060-banal-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0061-bellicose",
@@ -543,7 +657,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0061-bellicose-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0061-bellicose-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0061-bellicose-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0062-benevolent",
@@ -557,7 +674,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0062-benevolent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0062-benevolent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0062-benevolent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0063-benign",
@@ -571,7 +691,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0063-benign-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0063-benign-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0063-benign-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0065-blithe",
@@ -585,7 +708,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0065-blithe-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0065-blithe-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0065-blithe-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0067-boorish",
@@ -599,7 +725,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0067-boorish-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0067-boorish-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0067-boorish-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0076-cantankerous",
@@ -613,7 +742,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0076-cantankerous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0076-cantankerous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0076-cantankerous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0077-capricious",
@@ -627,7 +759,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0077-capricious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0077-capricious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0077-capricious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0082-circumspect",
@@ -641,7 +776,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0082-circumspect-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0082-circumspect-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0082-circumspect-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0083-clandestine",
@@ -655,7 +793,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0083-clandestine-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0083-clandestine-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0083-clandestine-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0084-clemency",
@@ -669,7 +810,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0084-clemency-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0084-clemency-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0084-clemency-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0086-cogent",
@@ -683,7 +827,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0086-cogent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0086-cogent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0086-cogent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0087-complacent",
@@ -697,7 +844,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0087-complacent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0087-complacent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0087-complacent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0088-conciliatory",
@@ -711,7 +861,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0088-conciliatory-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0088-conciliatory-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0088-conciliatory-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0094-connive",
@@ -725,7 +878,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0094-connive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0094-connive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0094-connive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0095-conscientious",
@@ -739,7 +895,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0095-conscientious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0095-conscientious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0095-conscientious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0097-contentious",
@@ -753,7 +912,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0097-contentious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0097-contentious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0097-contentious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0099-convivial",
@@ -767,7 +929,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0099-convivial-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0099-convivial-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0099-convivial-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0101-copious",
@@ -781,7 +946,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0101-copious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0101-copious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0101-copious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0105-credulous",
@@ -795,7 +963,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0105-credulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0105-credulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0105-credulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0106-cursory",
@@ -809,7 +980,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0106-cursory-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0106-cursory-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0106-cursory-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0107-cynical",
@@ -823,7 +997,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0107-cynical-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0107-cynical-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0107-cynical-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0109-debacle",
@@ -837,7 +1014,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0109-debacle-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0109-debacle-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0109-debacle-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0113-deleterious",
@@ -851,7 +1031,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0113-deleterious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0113-deleterious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0113-deleterious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0117-deprecate",
@@ -865,7 +1048,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0117-deprecate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0117-deprecate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0117-deprecate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0118-deride",
@@ -879,7 +1065,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0118-deride-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0118-deride-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0118-deride-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0120-desultory",
@@ -893,7 +1082,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0120-desultory-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0120-desultory-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0120-desultory-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0122-diffident",
@@ -907,7 +1099,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0122-diffident-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0122-diffident-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0122-diffident-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0127-disseminate",
@@ -921,7 +1116,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0127-disseminate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0127-disseminate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0127-disseminate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0129-dubious",
@@ -935,7 +1133,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0129-dubious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0129-dubious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0129-dubious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0133-efface",
@@ -949,7 +1150,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0133-efface-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0133-efface-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0133-efface-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0135-effrontery",
@@ -963,7 +1167,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0135-effrontery-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0135-effrontery-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0135-effrontery-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0137-egregious",
@@ -977,7 +1184,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0137-egregious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0137-egregious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0137-egregious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0139-elusive",
@@ -991,7 +1201,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0139-elusive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0139-elusive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0139-elusive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0140-embellish",
@@ -1005,7 +1218,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0140-embellish-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0140-embellish-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0140-embellish-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0143-enigmatic",
@@ -1019,7 +1235,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0143-enigmatic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0143-enigmatic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0143-enigmatic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0145-equanimity",
@@ -1033,7 +1252,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0145-equanimity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0145-equanimity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0145-equanimity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0149-euphemism",
@@ -1047,7 +1269,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0149-euphemism-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0149-euphemism-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0149-euphemism-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0150-evanescent",
@@ -1061,7 +1286,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0150-evanescent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0150-evanescent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0150-evanescent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0152-exacerbate",
@@ -1075,7 +1303,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0152-exacerbate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0152-exacerbate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0152-exacerbate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0156-exhort",
@@ -1089,7 +1320,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0156-exhort-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0156-exhort-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0156-exhort-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0159-extant",
@@ -1103,7 +1337,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0159-extant-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0159-extant-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0159-extant-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0161-facile",
@@ -1117,7 +1354,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0161-facile-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0161-facile-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0161-facile-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0163-fastidious",
@@ -1131,7 +1371,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0163-fastidious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0163-fastidious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0163-fastidious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0164-fatuous",
@@ -1145,7 +1388,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0164-fatuous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0164-fatuous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0164-fatuous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0165-fecund",
@@ -1159,7 +1405,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0165-fecund-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0165-fecund-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0165-fecund-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0166-felicitous",
@@ -1173,7 +1422,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0166-felicitous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0166-felicitous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0166-felicitous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0167-fervent",
@@ -1187,7 +1439,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0167-fervent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0167-fervent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0167-fervent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0171-fractious",
@@ -1201,7 +1456,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0171-fractious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0171-fractious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0171-fractious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0172-futile",
@@ -1215,7 +1473,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0172-futile-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0172-futile-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0172-futile-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0173-garrulous",
@@ -1229,7 +1490,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0173-garrulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0173-garrulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0173-garrulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0176-gratuitous",
@@ -1243,7 +1507,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0176-gratuitous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0176-gratuitous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0176-gratuitous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0177-gregarious",
@@ -1257,7 +1524,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0177-gregarious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0177-gregarious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0177-gregarious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0181-hegemony",
@@ -1271,7 +1541,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0181-hegemony-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0181-hegemony-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0181-hegemony-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0182-hermetic",
@@ -1285,7 +1558,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0182-hermetic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0182-hermetic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0182-hermetic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0183-heterodox",
@@ -1299,7 +1575,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0183-heterodox-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0183-heterodox-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0183-heterodox-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0184-hubris",
@@ -1313,7 +1592,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0184-hubris-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0184-hubris-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0184-hubris-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0185-iconoclast",
@@ -1327,7 +1609,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0185-iconoclast-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0185-iconoclast-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0185-iconoclast-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0186-idiosyncratic",
@@ -1341,7 +1626,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0186-idiosyncratic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0186-idiosyncratic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0186-idiosyncratic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0187-ignominious",
@@ -1355,7 +1643,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0187-ignominious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0187-ignominious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0187-ignominious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0190-impassive",
@@ -1369,7 +1660,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0190-impassive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0190-impassive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0190-impassive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0191-impeccable",
@@ -1383,7 +1677,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0191-impeccable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0191-impeccable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0191-impeccable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0193-impervious",
@@ -1397,7 +1694,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0193-impervious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0193-impervious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0193-impervious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0194-impetuous",
@@ -1411,7 +1711,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0194-impetuous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0194-impetuous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0194-impetuous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0195-implicit",
@@ -1425,7 +1728,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0195-implicit-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0195-implicit-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0195-implicit-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0197-imprecation",
@@ -1439,7 +1745,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0197-imprecation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0197-imprecation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0197-imprecation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0199-incisive",
@@ -1453,7 +1762,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0199-incisive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0199-incisive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0199-incisive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0200-incongruous",
@@ -1467,7 +1779,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0200-incongruous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0200-incongruous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0200-incongruous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0201-incontrovertible",
@@ -1481,7 +1796,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0201-incontrovertible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0201-incontrovertible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0201-incontrovertible-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0202-incredulous",
@@ -1495,7 +1813,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0202-incredulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0202-incredulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0202-incredulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0203-indefatigable",
@@ -1509,7 +1830,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0203-indefatigable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0203-indefatigable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0203-indefatigable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0204-indelible",
@@ -1523,7 +1847,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0204-indelible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0204-indelible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0204-indelible-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0205-indigenous",
@@ -1537,7 +1864,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0205-indigenous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0205-indigenous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0205-indigenous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0207-indolent",
@@ -1551,7 +1881,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0207-indolent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0207-indolent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0207-indolent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0209-inexorable",
@@ -1565,7 +1898,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0209-inexorable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0209-inexorable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0209-inexorable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0210-ingenuous",
@@ -1579,7 +1915,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0210-ingenuous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0210-ingenuous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0210-ingenuous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0211-inimical",
@@ -1593,7 +1932,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0211-inimical-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0211-inimical-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0211-inimical-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0212-innocuous",
@@ -1607,7 +1949,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0212-innocuous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0212-innocuous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0212-innocuous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0213-insidious",
@@ -1621,7 +1966,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0213-insidious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0213-insidious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0213-insidious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0218-intrepid",
@@ -1635,7 +1983,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0218-intrepid-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0218-intrepid-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0218-intrepid-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0220-irascible",
@@ -1649,7 +2000,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0220-irascible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0220-irascible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0220-irascible-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0223-laconic",
@@ -1663,7 +2017,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0223-laconic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0223-laconic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0223-laconic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0228-magnanimous",
@@ -1677,7 +2034,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0228-magnanimous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0228-magnanimous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0228-magnanimous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0229-malleable",
@@ -1691,7 +2051,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0229-malleable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0229-malleable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0229-malleable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0232-mendacious",
@@ -1705,7 +2068,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0232-mendacious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0232-mendacious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0232-mendacious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0234-meticulous",
@@ -1719,7 +2085,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0234-meticulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0234-meticulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0234-meticulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0237-munificent",
@@ -1733,7 +2102,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0237-munificent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0237-munificent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0237-munificent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0239-nebulous",
@@ -1747,7 +2119,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0239-nebulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0239-nebulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0239-nebulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0244-oblivious",
@@ -1761,7 +2136,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0244-oblivious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0244-oblivious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0244-oblivious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0245-obsequious",
@@ -1775,7 +2153,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0245-obsequious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0245-obsequious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0245-obsequious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0246-obstinate",
@@ -1789,7 +2170,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0246-obstinate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0246-obstinate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0246-obstinate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0248-onerous",
@@ -1803,7 +2187,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0248-onerous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0248-onerous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0248-onerous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0250-opprobrium",
@@ -1817,7 +2204,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0250-opprobrium-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0250-opprobrium-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0250-opprobrium-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0251-ostensible",
@@ -1831,7 +2221,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0251-ostensible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0251-ostensible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0251-ostensible-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0253-palpable",
@@ -1845,7 +2238,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0253-palpable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0253-palpable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0253-palpable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0254-panacea",
@@ -1859,7 +2255,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0254-panacea-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0254-panacea-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0254-panacea-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0255-paradox",
@@ -1873,7 +2272,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0255-paradox-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0255-paradox-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0255-paradox-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0257-paucity",
@@ -1887,7 +2289,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0257-paucity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0257-paucity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0257-paucity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0258-pedantic",
@@ -1901,7 +2306,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0258-pedantic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0258-pedantic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0258-pedantic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0259-perfunctory",
@@ -1915,7 +2323,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0259-perfunctory-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0259-perfunctory-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0259-perfunctory-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0261-perspicacious",
@@ -1929,7 +2340,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0261-perspicacious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0261-perspicacious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0261-perspicacious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0262-pervasive",
@@ -1943,7 +2357,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0262-pervasive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0262-pervasive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0262-pervasive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0263-petulant",
@@ -1957,7 +2374,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0263-petulant-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0263-petulant-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0263-petulant-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0264-pithy",
@@ -1971,7 +2391,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0264-pithy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0264-pithy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0264-pithy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0266-platitude",
@@ -1985,7 +2408,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0266-platitude-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0266-platitude-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0266-platitude-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0267-plausible",
@@ -1999,7 +2425,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0267-plausible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0267-plausible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0267-plausible-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0273-prescient",
@@ -2013,7 +2442,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0273-prescient-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0273-prescient-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0273-prescient-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0274-pretentious",
@@ -2027,7 +2459,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0274-pretentious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0274-pretentious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0274-pretentious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0278-prolific",
@@ -2041,7 +2476,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0278-prolific-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0278-prolific-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0278-prolific-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0279-propensity",
@@ -2055,7 +2493,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0279-propensity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0279-propensity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0279-propensity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0280-propitious",
@@ -2069,7 +2510,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0280-propitious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0280-propitious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0280-propitious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0281-prosaic",
@@ -2083,7 +2527,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0281-prosaic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0281-prosaic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0281-prosaic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0284-prudent",
@@ -2097,7 +2544,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0284-prudent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0284-prudent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0284-prudent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0285-punctilious",
@@ -2111,7 +2561,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0285-punctilious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0285-punctilious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0285-punctilious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0286-quiescent",
@@ -2125,7 +2578,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0286-quiescent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0286-quiescent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0286-quiescent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0290-redundant",
@@ -2139,7 +2595,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0290-redundant-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0290-redundant-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0290-redundant-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0291-refute",
@@ -2153,7 +2612,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0291-refute-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0291-refute-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0291-refute-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0293-remiss",
@@ -2167,7 +2629,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0293-remiss-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0293-remiss-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0293-remiss-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0296-reticent",
@@ -2181,7 +2646,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0296-reticent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0296-reticent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0296-reticent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0299-robust",
@@ -2195,7 +2663,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0299-robust-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0299-robust-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0299-robust-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0304-sardonic",
@@ -2209,7 +2680,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0304-sardonic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0304-sardonic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0304-sardonic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0305-scrupulous",
@@ -2223,7 +2697,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0305-scrupulous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0305-scrupulous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0305-scrupulous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0307-solicitous",
@@ -2237,7 +2714,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0307-solicitous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0307-solicitous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0307-solicitous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0308-spurious",
@@ -2251,7 +2731,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0308-spurious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0308-spurious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0308-spurious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0311-stringent",
@@ -2265,7 +2748,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0311-stringent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0311-stringent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0311-stringent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0313-supercilious",
@@ -2279,7 +2765,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0313-supercilious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0313-supercilious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0313-supercilious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0314-superfluous",
@@ -2293,7 +2782,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0314-superfluous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0314-superfluous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0314-superfluous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0315-surreptitious",
@@ -2307,7 +2799,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0315-surreptitious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0315-surreptitious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0315-surreptitious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0316-sycophantic",
@@ -2321,7 +2816,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0316-sycophantic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0316-sycophantic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0316-sycophantic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0317-tacit",
@@ -2335,7 +2833,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0317-tacit-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0317-tacit-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0317-tacit-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0318-taciturn",
@@ -2349,7 +2850,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0318-taciturn-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0318-taciturn-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0318-taciturn-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0319-tangential",
@@ -2363,7 +2867,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0319-tangential-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0319-tangential-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0319-tangential-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0321-tenuous",
@@ -2377,7 +2884,10 @@
     "learningType": "active",
     "audioBritish": "/audio/en-gb/ww-0321-tenuous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0321-tenuous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0321-tenuous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0322-terse",
@@ -2391,7 +2901,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0322-terse-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0322-terse-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0322-terse-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0325-tractable",
@@ -2405,7 +2918,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0325-tractable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0325-tractable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0325-tractable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0327-trenchant",
@@ -2419,7 +2935,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0327-trenchant-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0327-trenchant-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0327-trenchant-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0328-ubiquitous",
@@ -2433,7 +2952,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0328-ubiquitous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0328-ubiquitous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0328-ubiquitous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0329-unequivocal",
@@ -2447,7 +2969,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0329-unequivocal-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0329-unequivocal-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0329-unequivocal-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0332-urbane",
@@ -2461,7 +2986,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0332-urbane-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0332-urbane-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0332-urbane-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0333-vacillate",
@@ -2475,7 +3003,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0333-vacillate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0333-vacillate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0333-vacillate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0335-verbose",
@@ -2489,7 +3020,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0335-verbose-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0335-verbose-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0335-verbose-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0337-vindicate",
@@ -2503,7 +3037,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0337-vindicate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0337-vindicate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0337-vindicate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0338-visceral",
@@ -2517,7 +3054,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0338-visceral-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0338-visceral-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0338-visceral-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0340-vociferous",
@@ -2531,7 +3071,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0340-vociferous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0340-vociferous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0340-vociferous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0343-whimsical",
@@ -2545,7 +3088,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0343-whimsical-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0343-whimsical-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0343-whimsical-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0344-zealous",
@@ -2559,7 +3105,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0344-zealous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0344-zealous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0344-zealous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0345-abstemious",
@@ -2573,7 +3122,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0345-abstemious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0345-abstemious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0345-abstemious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0346-acculturation",
@@ -2587,7 +3139,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0346-acculturation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0346-acculturation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0346-acculturation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0348-apotheosis",
@@ -2601,7 +3156,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0348-apotheosis-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0348-apotheosis-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0348-apotheosis-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0355-compunction",
@@ -2615,7 +3173,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0355-compunction-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0355-compunction-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0355-compunction-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0357-contravene",
@@ -2629,7 +3190,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0357-contravene-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0357-contravene-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0357-contravene-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0359-dichotomy",
@@ -2643,7 +3207,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0359-dichotomy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0359-dichotomy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0359-dichotomy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0360-disabuse",
@@ -2657,7 +3224,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0360-disabuse-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0360-disabuse-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0360-disabuse-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0361-discomfit",
@@ -2671,7 +3241,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0361-discomfit-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0361-discomfit-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0361-discomfit-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0366-elide",
@@ -2685,7 +3258,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0366-elide-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0366-elide-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0366-elide-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0370-epistemic",
@@ -2699,7 +3275,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0370-epistemic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0370-epistemic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0370-epistemic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0371-equivocate",
@@ -2713,7 +3292,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0371-equivocate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0371-equivocate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0371-equivocate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0372-evince",
@@ -2727,7 +3309,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0372-evince-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0372-evince-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0372-evince-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0373-exegesis",
@@ -2741,7 +3326,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0373-exegesis-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0373-exegesis-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0373-exegesis-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0374-exhortation",
@@ -2755,7 +3343,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0374-exhortation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0374-exhortation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0374-exhortation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0377-expatiate",
@@ -2769,7 +3360,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0377-expatiate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0377-expatiate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0377-expatiate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0378-extemporaneous",
@@ -2783,7 +3377,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0378-extemporaneous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0378-extemporaneous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0378-extemporaneous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0379-feckless",
@@ -2797,7 +3394,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0379-feckless-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0379-feckless-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0379-feckless-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0381-gainsay",
@@ -2811,7 +3411,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0381-gainsay-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0381-gainsay-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0381-gainsay-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0382-galvanize",
@@ -2825,7 +3428,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0382-galvanize-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0382-galvanize-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0382-galvanize-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0383-grandiloquent",
@@ -2839,7 +3445,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0383-grandiloquent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0383-grandiloquent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0383-grandiloquent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0386-homogeneous",
@@ -2853,7 +3462,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0386-homogeneous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0386-homogeneous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0386-homogeneous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0388-immanent",
@@ -2867,7 +3479,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0388-immanent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0388-immanent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0388-immanent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0389-impecunious",
@@ -2881,7 +3496,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0389-impecunious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0389-impecunious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0389-impecunious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0391-ineluctable",
@@ -2895,7 +3513,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0391-ineluctable-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0391-ineluctable-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0391-ineluctable-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0392-infelicitous",
@@ -2909,7 +3530,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0392-infelicitous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0392-infelicitous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0392-infelicitous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0393-insouciant",
@@ -2923,7 +3547,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0393-insouciant-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0393-insouciant-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0393-insouciant-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0394-intercede",
@@ -2937,7 +3564,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0394-intercede-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0394-intercede-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0394-intercede-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0396-interpolate",
@@ -2951,7 +3581,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0396-interpolate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0396-interpolate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0396-interpolate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0398-lacuna",
@@ -2965,7 +3598,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0398-lacuna-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0398-lacuna-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0398-lacuna-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0399-liminal",
@@ -2979,7 +3615,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0399-liminal-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0399-liminal-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0399-liminal-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0401-mendacity",
@@ -2993,7 +3632,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0401-mendacity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0401-mendacity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0401-mendacity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0402-metonymy",
@@ -3007,7 +3649,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0402-metonymy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0402-metonymy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0402-metonymy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0403-nascent",
@@ -3021,7 +3666,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0403-nascent-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0403-nascent-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0403-nascent-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0408-parsimonious",
@@ -3035,7 +3683,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0408-parsimonious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0408-parsimonious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0408-parsimonious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0411-perspicuity",
@@ -3049,7 +3700,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0411-perspicuity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0411-perspicuity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0411-perspicuity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0415-preclude",
@@ -3063,7 +3717,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0415-preclude-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0415-preclude-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0415-preclude-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0416-prevaricate",
@@ -3077,7 +3734,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0416-prevaricate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0416-prevaricate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0416-prevaricate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0417-proclivity",
@@ -3091,7 +3751,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0417-proclivity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0417-proclivity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0417-proclivity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0421-sophistry",
@@ -3105,7 +3768,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0421-sophistry-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0421-sophistry-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0421-sophistry-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0425-tautology",
@@ -3119,7 +3785,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0425-tautology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0425-tautology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0425-tautology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0426-taxonomy",
@@ -3133,7 +3802,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0426-taxonomy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0426-taxonomy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0426-taxonomy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0427-teleological",
@@ -3147,7 +3819,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0427-teleological-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0427-teleological-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0427-teleological-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0428-temerity",
@@ -3161,7 +3836,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0428-temerity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0428-temerity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0428-temerity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0429-transcend",
@@ -3175,7 +3853,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0429-transcend-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0429-transcend-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0429-transcend-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0431-vicissitude",
@@ -3189,7 +3870,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0431-vicissitude-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0431-vicissitude-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0431-vicissitude-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0433-adduce",
@@ -3203,7 +3887,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0433-adduce-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0433-adduce-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0433-adduce-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0434-admonish",
@@ -3217,7 +3904,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0434-admonish-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0434-admonish-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0434-admonish-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0437-amorphous",
@@ -3231,7 +3921,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0437-amorphous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0437-amorphous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0437-amorphous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0438-antithetical",
@@ -3245,7 +3938,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0438-antithetical-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0438-antithetical-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0438-antithetical-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0439-apothegm",
@@ -3259,7 +3955,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0439-apothegm-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0439-apothegm-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0439-apothegm-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0441-bathos",
@@ -3273,7 +3972,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0441-bathos-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0441-bathos-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0441-bathos-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0444-contiguous",
@@ -3287,7 +3989,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0444-contiguous-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0444-contiguous-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0444-contiguous-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0449-discursive",
@@ -3301,7 +4006,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0449-discursive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0449-discursive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0449-discursive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0450-disquisition",
@@ -3315,7 +4023,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0450-disquisition-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0450-disquisition-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0450-disquisition-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0453-epistemology",
@@ -3329,7 +4040,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0453-epistemology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0453-epistemology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0453-epistemology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0456-factitious",
@@ -3343,7 +4057,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0456-factitious-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0456-factitious-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0456-factitious-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0457-fulsome",
@@ -3357,7 +4074,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0457-fulsome-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0457-fulsome-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0457-fulsome-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0459-impute",
@@ -3371,7 +4091,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0459-impute-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0459-impute-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0459-impute-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0461-interregnum",
@@ -3385,7 +4108,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0461-interregnum-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0461-interregnum-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0461-interregnum-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0462-jejune",
@@ -3399,7 +4125,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0462-jejune-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0462-jejune-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0462-jejune-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0463-jurisprudence",
@@ -3413,7 +4142,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0463-jurisprudence-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0463-jurisprudence-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0463-jurisprudence-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0464-lexicalize",
@@ -3427,7 +4159,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0464-lexicalize-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0464-lexicalize-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0464-lexicalize-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0466-monolithic",
@@ -3441,7 +4176,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0466-monolithic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0466-monolithic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0466-monolithic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0467-nominalize",
@@ -3455,7 +4193,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0467-nominalize-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0467-nominalize-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0467-nominalize-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0474-recapitulate",
@@ -3469,7 +4210,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0474-recapitulate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0474-recapitulate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0474-recapitulate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0475-reductive",
@@ -3483,7 +4227,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0475-reductive-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0475-reductive-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0475-reductive-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0480-synchronic",
@@ -3497,7 +4244,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0480-synchronic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0480-synchronic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0480-synchronic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0484-verisimilitude",
@@ -3511,7 +4261,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0484-verisimilitude-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0484-verisimilitude-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0484-verisimilitude-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0485-accretion",
@@ -3525,7 +4278,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0485-accretion-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0485-accretion-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0485-accretion-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0486-actuarial",
@@ -3539,7 +4295,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0486-actuarial-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0486-actuarial-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0486-actuarial-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0487-adjudicate",
@@ -3553,7 +4312,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0487-adjudicate-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0487-adjudicate-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0487-adjudicate-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0489-austerity",
@@ -3567,7 +4329,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0489-austerity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0489-austerity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0489-austerity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0491-bureaucratic",
@@ -3581,7 +4346,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0491-bureaucratic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0491-bureaucratic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0491-bureaucratic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0492-catalyst",
@@ -3595,7 +4363,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0492-catalyst-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0492-catalyst-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0492-catalyst-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0493-constituency",
@@ -3609,7 +4380,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0493-constituency-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0493-constituency-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0493-constituency-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0496-diplomacy",
@@ -3623,7 +4397,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0496-diplomacy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0496-diplomacy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0496-diplomacy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0501-infrastructure",
@@ -3637,7 +4414,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0501-infrastructure-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0501-infrastructure-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0501-infrastructure-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0502-insolvency",
@@ -3651,7 +4431,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0502-insolvency-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0502-insolvency-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0502-insolvency-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0503-jurisdiction",
@@ -3665,7 +4448,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0503-jurisdiction-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0503-jurisdiction-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0503-jurisdiction-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0505-moratorium",
@@ -3679,7 +4465,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0505-moratorium-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0505-moratorium-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0505-moratorium-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0507-oligarchy",
@@ -3693,7 +4482,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0507-oligarchy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0507-oligarchy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0507-oligarchy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0508-orthodoxy",
@@ -3707,7 +4499,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0508-orthodoxy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0508-orthodoxy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0508-orthodoxy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0509-privatize",
@@ -3721,7 +4516,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0509-privatize-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0509-privatize-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0509-privatize-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0511-recession",
@@ -3735,7 +4533,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0511-recession-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0511-recession-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0511-recession-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0513-regime",
@@ -3749,7 +4550,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0513-regime-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0513-regime-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0513-regime-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0516-subsidy",
@@ -3763,7 +4567,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0516-subsidy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0516-subsidy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0516-subsidy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0519-technocratic",
@@ -3777,7 +4584,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0519-technocratic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0519-technocratic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0519-technocratic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0521-volatility",
@@ -3791,7 +4601,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0521-volatility-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0521-volatility-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0521-volatility-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0523-anthropogenic",
@@ -3805,7 +4618,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0523-anthropogenic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0523-anthropogenic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0523-anthropogenic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0524-biodiversity",
@@ -3819,7 +4635,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0524-biodiversity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0524-biodiversity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0524-biodiversity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0526-cognition",
@@ -3833,7 +4652,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0526-cognition-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0526-cognition-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0526-cognition-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0530-equilibrium",
@@ -3847,7 +4669,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0530-equilibrium-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0530-equilibrium-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0530-equilibrium-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0536-methodology",
@@ -3861,7 +4686,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0536-methodology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0536-methodology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0536-methodology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0537-paradigm",
@@ -3875,7 +4703,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0537-paradigm-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0537-paradigm-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0537-paradigm-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0538-parameter",
@@ -3889,7 +4720,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0538-parameter-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0538-parameter-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0538-parameter-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0539-placebo",
@@ -3903,7 +4737,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0539-placebo-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0539-placebo-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0539-placebo-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0541-probability",
@@ -3917,7 +4754,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0541-probability-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0541-probability-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0541-probability-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0543-quantitative",
@@ -3931,7 +4771,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0543-quantitative-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0543-quantitative-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0543-quantitative-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0552-ambiguity",
@@ -3945,7 +4788,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0552-ambiguity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0552-ambiguity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0552-ambiguity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0555-characterization",
@@ -3959,7 +4805,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0555-characterization-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0555-characterization-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0555-characterization-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0556-chronology",
@@ -3973,7 +4822,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0556-chronology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0556-chronology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0556-chronology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0557-connotation",
@@ -3987,7 +4839,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0557-connotation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0557-connotation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0557-connotation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0559-denotation",
@@ -4001,7 +4856,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0559-denotation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0559-denotation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0559-denotation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0563-motif",
@@ -4015,7 +4873,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0563-motif-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0563-motif-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0563-motif-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0567-pathos",
@@ -4029,7 +4890,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0567-pathos-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0567-pathos-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0567-pathos-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0573-allegorical",
@@ -4043,7 +4907,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0573-allegorical-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0573-allegorical-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0573-allegorical-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0574-evocative",
@@ -4057,7 +4924,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0574-evocative-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0574-evocative-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0574-evocative-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0576-iconography",
@@ -4071,7 +4941,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0576-iconography-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0576-iconography-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0576-iconography-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0578-oeuvre",
@@ -4085,7 +4958,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0578-oeuvre-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0578-oeuvre-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0578-oeuvre-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0582-leitmotif",
@@ -4099,7 +4975,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0582-leitmotif-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0582-leitmotif-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0582-leitmotif-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0583-synecdoche",
@@ -4113,7 +4992,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0583-synecdoche-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0583-synecdoche-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0583-synecdoche-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0584-aporia",
@@ -4127,7 +5009,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0584-aporia-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0584-aporia-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0584-aporia-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0587-phenomenology",
@@ -4141,7 +5026,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0587-phenomenology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0587-phenomenology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0587-phenomenology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0588-polysemy",
@@ -4155,7 +5043,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0588-polysemy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0588-polysemy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0588-polysemy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0592-figurative",
@@ -4169,7 +5060,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0592-figurative-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0592-figurative-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0592-figurative-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0595-semantics",
@@ -4183,7 +5077,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0595-semantics-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0595-semantics-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0595-semantics-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0600-phonology",
@@ -4197,7 +5094,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0600-phonology-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0600-phonology-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0600-phonology-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0601-prosody",
@@ -4211,7 +5111,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0601-prosody-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0601-prosody-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0601-prosody-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0604-fluency",
@@ -4225,7 +5128,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0604-fluency-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0604-fluency-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0604-fluency-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0607-acquisition",
@@ -4239,7 +5145,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0607-acquisition-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0607-acquisition-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0607-acquisition-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0610-pedagogy",
@@ -4253,7 +5162,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0610-pedagogy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0610-pedagogy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0610-pedagogy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0615-validity",
@@ -4267,7 +5179,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0615-validity-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0615-validity-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0615-validity-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0617-corpus",
@@ -4281,7 +5196,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0617-corpus-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0617-corpus-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0617-corpus-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0619-collocation",
@@ -4295,7 +5213,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0619-collocation-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0619-collocation-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0619-collocation-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0624-cohesion",
@@ -4309,7 +5230,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0624-cohesion-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0624-cohesion-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0624-cohesion-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0625-coherence",
@@ -4323,7 +5247,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0625-coherence-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0625-coherence-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0625-coherence-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0626-deixis",
@@ -4337,7 +5264,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0626-deixis-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0626-deixis-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0626-deixis-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0629-presupposition",
@@ -4351,7 +5281,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0629-presupposition-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0629-presupposition-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0629-presupposition-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0630-entailment",
@@ -4365,7 +5298,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0630-entailment-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0630-entailment-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0630-entailment-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0631-synonymy",
@@ -4379,7 +5315,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0631-synonymy-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0631-synonymy-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0631-synonymy-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0633-hyperbole",
@@ -4393,7 +5332,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0633-hyperbole-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0633-hyperbole-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0633-hyperbole-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0634-euphemistic",
@@ -4407,7 +5349,10 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0634-euphemistic-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0634-euphemistic-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0634-euphemistic-en-us-male.mp3",
+    "audioReady": true
   },
   {
     "id": "ww-0640-intelligible",
@@ -4421,6 +5366,9 @@
     "learningType": "receptive",
     "audioBritish": "/audio/en-gb/ww-0640-intelligible-en-gb.mp3",
     "contextStatus": "attested",
-    "source": "Kaikki/Wiktionary"
+    "source": "Kaikki/Wiktionary",
+    "audioUSFemale": "/audio/en-us/female/ww-0640-intelligible-en-us-female.mp3",
+    "audioUSMale": "/audio/en-us/male/ww-0640-intelligible-en-us-male.mp3",
+    "audioReady": true
   }
 ]

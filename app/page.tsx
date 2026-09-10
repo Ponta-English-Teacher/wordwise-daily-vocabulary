@@ -1,11 +1,16 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import vocabulary from './vocabulary-data.json';
 
 type Status = 'known' | 'unsure' | 'learning';
 type RecordMap = Record<string, { status: Status; seen: number; due: number }>;
-type Entry = (typeof vocabulary)[number] & { audioReady?: boolean };
+type Voice = 'female' | 'male';
+type Entry = (typeof vocabulary)[number] & {
+  audioReady?: boolean;
+  audioUSFemale?: string;
+  audioUSMale?: string;
+};
 
 const DAY = 86_400_000;
 const shuffle = <T,>(items: T[]) =>
@@ -20,6 +25,23 @@ export default function Home() {
   const [answer, setAnswer] = useState<Status | null>(null);
   const [view, setView] = useState<'session' | 'progress'>('session');
   const [session, setSession] = useState({ seen: 0, known: 0, unsure: 0, learning: 0 });
+  const [voice, setVoice] = useState<Voice>('female');
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    audioRef.current?.pause();
+  }, [current.id]);
+
+  function playPronunciation() {
+    const src = voice === 'female' ? current.audioUSFemale : current.audioUSMale;
+    if (!src) return;
+    if (!audioRef.current) audioRef.current = new Audio();
+    const audio = audioRef.current;
+    audio.pause();
+    audio.src = src;
+    audio.currentTime = 0;
+    audio.play().catch(() => {});
+  }
 
   useEffect(() => {
     let saved: RecordMap = {};
@@ -107,7 +129,15 @@ export default function Home() {
                   <p className="entry-detail"><b>Example:</b> {current.context}</p>
                   {current.usage && <p className="entry-detail"><b>Usage:</b> {current.usage}</p>}
                   <p className="learning-type"><b>{current.learningType === 'active' ? 'Active vocabulary' : 'Receptive vocabulary'}</b> · {current.level}</p>
-                  {current.audioReady && <audio controls preload="none" src={current.audioBritish}>Your browser cannot play this audio.</audio>}
+                  {current.audioReady && (
+                    <div className="pronunciation">
+                      <button type="button" className="play-audio" onClick={playPronunciation} aria-label="Play pronunciation">▶ Pronunciation</button>
+                      <div className="voice-toggle" role="group" aria-label="Voice">
+                        <button type="button" className={voice === 'female' ? 'active' : ''} onClick={() => setVoice('female')}>Female</button>
+                        <button type="button" className={voice === 'male' ? 'active' : ''} onClick={() => setVoice('male')}>Male</button>
+                      </div>
+                    </div>
+                  )}
                   <div className="correction"><span>Change my answer:</span>{(['known', 'unsure', 'learning'] as Status[]).filter((status) => status !== answer).map((status) => <button key={status} onClick={() => correctStatus(status)}>{status === 'known' ? 'I knew it' : status === 'unsure' ? 'I was unsure' : 'I didn’t know it'}</button>)}</div>
                   <button className="continue" onClick={next}>Continue <span>→</span></button>
                 </div>
