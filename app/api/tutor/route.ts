@@ -86,7 +86,8 @@ For etymology and morphology, do not infer a relationship from spelling alone. C
         model: process.env.OPENAI_MODEL || 'gpt-5-mini',
         instructions,
         input: [...history, { role: 'user', content: question }],
-        max_output_tokens: 400,
+        max_output_tokens: 600,
+        reasoning: { effort: 'minimal' },
         store: false,
       }),
     });
