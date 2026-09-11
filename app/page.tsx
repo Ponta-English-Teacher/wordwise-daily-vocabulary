@@ -52,7 +52,7 @@ export default function Home() {
     if (!question || tutorPending) return;
 
     const entryId = current.id;
-    const history = (retry ? tutorMessages.slice(0, -1) : tutorMessages).slice(-10);
+    const history = (retry ? tutorMessages.slice(0, -1) : tutorMessages).slice(-2);
     if (!retry) setTutorMessages((messages) => [...messages, { role: 'user', content: question }]);
     setTutorQuestion('');
     setTutorError('');
