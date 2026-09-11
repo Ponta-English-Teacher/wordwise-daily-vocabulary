@@ -1,11 +1,28 @@
 import vocabulary from '../../vocabulary-data.json';
 
+type ChatMessage = { role: 'user' | 'assistant'; content: string };
 type TutorRequest = { entryId?: unknown; revealed?: unknown; question?: unknown; history?: unknown };
 
+const MAX_HISTORY_MESSAGES = 2;
 const MAX_MESSAGE_LENGTH = 1_000;
 
 function jsonError(message: string, status: number, code: string) {
   return Response.json({ error: message, code }, { status });
+}
+
+function cleanHistory(value: unknown): ChatMessage[] | null {
+  if (!Array.isArray(value) || value.length > MAX_HISTORY_MESSAGES) return null;
+  const messages: ChatMessage[] = [];
+  for (const item of value) {
+    if (!item || typeof item !== 'object') return null;
+    const role = 'role' in item ? item.role : undefined;
+    const content = 'content' in item ? item.content : undefined;
+    if ((role !== 'user' && role !== 'assistant') || typeof content !== 'string') return null;
+    const trimmed = content.trim();
+    if (!trimmed || trimmed.length > MAX_MESSAGE_LENGTH) return null;
+    messages.push({ role, content: trimmed });
+  }
+  return messages;
 }
 
 function extractOutputText(payload: unknown): string {
@@ -31,6 +48,8 @@ export async function POST(request: Request) {
   }
   const question = body.question.trim();
   if (!question || question.length > MAX_MESSAGE_LENGTH) return jsonError('Please ask a shorter question.', 400, 'invalid_request');
+  const history = cleanHistory(body.history ?? []);
+  if (!history) return jsonError('The recent conversation context is invalid.', 400, 'invalid_request');
 
   const entry = vocabulary.find((item) => item.id === body.entryId);
   if (!entry) return jsonError('This Wordwise entry could not be found.', 404, 'entry_not_found');
@@ -51,7 +70,9 @@ CURRENT AUTHORITATIVE WORDWISE ENTRY
 
 CURRENT MODE: ${mode}
 
-Treat every request as a fresh question about the current headword, ${entry.word}. Do not assume or refer to any earlier conversation. The learner may see earlier messages in the interface, but you do not have conversational memory of them.
+Every learner turn is about the current headword, ${entry.word}, unless the learner explicitly asks to compare it with another word. The current headword is always the default referent for phrases such as "it," "this word," "the word," "translate it," or an elliptical clarification such as "of course ${entry.word}."
+
+You receive at most one immediately previous learner/assistant exchange. Use that tiny amount of context only to resolve a follow-up, pronoun, correction, clarification, or unfinished comparison. Do not treat it as a growing conversation history, do not drift to another topic, and never let earlier context override the fact that the session is about ${entry.word}.
 
 Answer the learner's exact question directly and briefly. Default to one to three short sentences. Give only the information needed to answer the question. Do not volunteer extra etymology, word families, examples, register, related words, definitions, or general linguistic background unless the learner asks for them or they are necessary to make the answer clear. Do not end by offering additional help.
 
@@ -65,6 +86,8 @@ The curated entry is authoritative. Never contradict or silently rewrite its def
 
 In EXPLORE mode, do not reveal the complete definition unless the learner explicitly asks for the meaning or answer. If the learner proposes another word as a possible synonym, near-synonym, or clue, respond only with how close it is to ${entry.word} — for example, "Yes," "Very close," "Somewhat related, but not quite the same," or "No" — plus at most one brief distinction if needed. Do not explain the full meaning of ${entry.word} merely because the learner proposed a comparison word. Preserve the learner's chance to infer the meaning step by step. If the learner explicitly requests "yes or no only" or another strict answer format, follow it exactly.
 
+If the learner asks for a translation without naming a word, translate ${entry.word}. Do not ask which word they mean unless they explicitly introduce a different target word.
+
 In LEARN mode, answer questions about meaning, usage, register, nuance, collocations, related words, and examples, but still keep the response concise unless the learner asks for more detail.`;
 
   try {
@@ -74,7 +97,7 @@ In LEARN mode, answer questions about meaning, usage, register, nuance, collocat
       body: JSON.stringify({
         model: process.env.OPENAI_MODEL || 'gpt-5-mini',
         instructions,
-        input: [{ role: 'user', content: question }],
+        input: [...history, { role: 'user', content: question }],
         max_output_tokens: 250,
         reasoning: { effort: 'minimal' },
         store: false,
